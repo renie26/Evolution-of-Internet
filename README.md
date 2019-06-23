@@ -1,6 +1,6 @@
 
 <h2 class="mb-10">The Origins of The Internet</h2><br/>
-<h4>Art Installation collected by Museum of Inspiration, Hangzhou</h4><br/><br/>
+<h4>Art Installation collected by Museum of Inspiration, Hangzhou</h4><br/>
 
 <p>70,000 years ago, humanity took its first steps beyond Africa.</p>
 <p>8,000 years ago, the first wooden boat appeared in Hangzhou.</p>
