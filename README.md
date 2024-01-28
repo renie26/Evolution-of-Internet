@@ -1,4 +1,4 @@
-[<img src="https://github.com/renie26/Origins-of-The-Internet/blob/master/installation_img1.jpg" width="50%">](https://youtu.be/VFLCNp4RRLs "demo")
+[<img src="https://github.com/renie26/Origins-of-The-Internet/blob/master/installation_img1.jpg" width="50%">](https://youtu.be/VFLCNp4RRLs "Click to watch on YouTube")
 
 <h2 class="mb-10">The Origins of The Internet</h2><br/>
 <h4>Art Installation collected by Museum of Inspiration, Hangzhou</h4><br/>
