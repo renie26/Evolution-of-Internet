@@ -25,4 +25,4 @@ In 1919, the DH-16 biplane carried its first four passengers from London to Pari
 
 In 1969, the Apache Network transmitted the first message between Stanford University and the University of California, Los Angeles.
 
-Here we weave a tale of the internet's natural genesis, a story about human networks. 
+Here we weave a tale of the Internet's natural genesis, a story about human networks. 
