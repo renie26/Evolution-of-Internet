@@ -1,6 +1,6 @@
-<h2 class="mb-10">The Origins of The Internet</h2><br/>
+<h2 class="mb-10">Natural Origins of the Internet</h2><br/>
 
-[<img src="https://github.com/renie26/Origins-of-The-Internet/blob/master/installation_img1.jpg" width="50%">](https://youtu.be/VFLCNp4RRLs "Click to watch on YouTube")
+[<img src="https://github.com/renie26/Origins-of-The-Internet/blob/master/installation_img1.jpg" width="50%">](https://youtu.be/1lFX-TEbCKE "Click to watch on YouTube")
 
 <h4>Permanent Installation exhibited at the Museum of Inspiration (2050博悟馆), Hangzhou</h4><br/>
 
